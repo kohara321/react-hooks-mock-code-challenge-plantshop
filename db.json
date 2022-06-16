@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Devil's Ivy",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2014/6/25/0/CI_04-fbfd01d70004.jpg.rend.hgtvcom.966.725.suffix/1452664590074.jpeg",
+      "price": "1.99",
+      "id": 8
+    },
+    {
+      "name": "Fern",
+      "image": "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/FernsIndoorPlants.png",
+      "price": "13.99",
+      "id": 9
     }
   ]
 }
